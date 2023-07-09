@@ -1,5 +1,5 @@
-# NETS
-Second year Software Project
+# New Employee Traning System(NETS)
+Second-year Software Project
 # Problem in Brief
 The company is currently experiencing challenges in acquiring knowledge from departing senior employees, and there is currently no effective physical solution in place to store or transfer knowledge efficiently. Consequently, the company has made the decision to develop a new system to address this problem. Moreover, the client lacks software to effectively manage their valuable knowledge. Initially, newly hired employees encounter difficulties in adapting to new IT systems and company protocols due to resistance to change and communication barriers. The company faces challenges in effectively communicating rules and protocols to new employees, resulting in unproductive time loss and increased stress for employees struggling to comprehend the transferred knowledge. As a result, the client is interested in creating its own knowledge transfer system to facilitate better interaction with new employees.
 # Aim
@@ -69,13 +69,13 @@ Offering badges
    Overview Report - Supervisor, Hired Employee
    Rating Report - Supervisor, Content creator
    Quiz Report - Supervisor
-6. Alerts
-7. Profile Details of all user roles
-8. Leaderboard - Hired Employee, Supervisor
-9. Quiz Result
-10. Quiz Review
-11. Project Assignment
-12. Edit Logs - Super Admin
+7. Alerts
+8. Profile Details of all user roles
+9. Leaderboard - Hired Employee, Supervisor
+10. Quiz Result
+11. Quiz Review
+12. Project Assignment
+13. Edit Logs - Super Admin
 # Use Case Diagram:
   https://lucid.app/lucidspark/69a0efbd-30d3-48f4-b706-4609e2e6e299/edit?invitationId=inv_9b6ea09e-1948-42c3-a4ab-0f6939bf1754&page=0_0#
 # ER Diagram: 
@@ -83,14 +83,14 @@ Offering badges
 
 # My Responsibility
 1. Evaluation module
-  Evaluate quizzes - Hired Employee
-  Review the quiz results - Hired Employee
-  Enable grading submissions by referring to pending submissions - Supervisor
-  View feedback on the submission - Hired EMployee
-  View project score - Supervisor
-  View score edit log - Super Admin
-  View reports: chapter report(Hired Employee,Supervisor), overview report(Hired Employee,Supervisor), ratings report(Content Creator, Supervisor), quiz report(Supervisor)
-2. Leaderboard module (Hired Employee, Supervisor)
-  Rank of employee
-  Offer badges
-  View score to beat rank 1 by hired employee
+  * Evaluate quizzes - Hired Employee
+  * Review the quiz results - Hired Employee
+  * Enable grading submissions by referring to pending submissions - Supervisor
+  * View feedback on the submission - Hired EMployee
+  * View project score - Supervisor
+  * View score edit log - Super Admin
+  * View reports: chapter report(Hired Employee,Supervisor), overview report(Hired Employee,Supervisor), ratings report(Content Creator, Supervisor), quiz report(Supervisor)
+3. Leaderboard module (Hired Employee, Supervisor)
+  * Rank of employee
+  * Offer badges
+  * View score to beat rank 1 by hired employee
