@@ -16,17 +16,17 @@ New Employee Training System (NETS) is designed to provide knowledge about the w
 9. To generate user reports and overview reports of hired employees and ratings and review reports of the content creator
 10. To give the badges to the employees who achieve the goal and show how many points they need to beat the first employee by the leader board
 # Proposed Solution
-Below are the main and sub-modules we created from the proposed solution
-Department &Job title module 
-Profile overview
-Chapter module 
-Content Module 
-Feedback and Discussion Forum Module
-Notification Module
-Evaluation Module 
-Leaderboard module 
-Authentication & permission module
-Guidance Module
+* Below are the main and sub-modules we created from the proposed solution
+* Department &Job title module 
+* Profile overview
+* Chapter module 
+* Content Module 
+* Feedback and Discussion Forum Module
+* Notification Module
+* Evaluation Module 
+* Leaderboard module 
+* Authentication & permission module
+* Guidance Module
 
 # User Roles
 1. Hired Employees
@@ -42,17 +42,17 @@ Guidance Module
   Quizzes
 4. Ratings and Comments
 # Process
-Login into the System
-Showing Dashboard and Profile Pages
-Manage Department and Job Titles
-Manage Chapters
-Manage Units
-Manage Learning Materials and Discussion Forums, Quizzes
-Send Notifications and Showing alert messages
-Comment, Ratings and Guidance request
-Evaluate quiz
-Calculating score difference and rank
-Offering badges
+* Login into the System
+* Showing Dashboard and Profile Pages
+* Manage Department and Job Titles
+* Manage Chapters
+* Manage Units
+* Manage Learning Materials and Discussion Forums, Quizzes
+* Send Notifications and Show alert messages
+* Comment, Ratings and Guidance requests
+* Evaluate quiz
+* Calculating score difference and rank
+* Offering badges
 # Outputs
 1. Dashboard 
 2. Chapter
