@@ -85,11 +85,13 @@ New Employee Training System (NETS) is designed to provide knowledge about the w
   * Evaluate quizzes - Hired Employee
   * Review the quiz results - Hired Employee
   * Enable grading submissions by referring to pending submissions - Supervisor
-  * View feedback on the submission - Hired EMployee
+  * View feedback on the submission - Hired Employee
   * View project score - Supervisor
   * View score edit log - Super Admin
   * View reports: chapter report(Hired Employee,Supervisor), overview report(Hired Employee,Supervisor), ratings report(Content Creator, Supervisor), quiz report(Supervisor)
 3. Leaderboard module (Hired Employee, Supervisor)
   * Rank of employee
   * Offer badges
-  * View score to beat rank 1 by hired employee
+  * View score to beat rank 1 by a hired employee
+# Final Report
+https://drive.google.com/file/d/1wCSc_CJWwJ-Jx5IRjfVfR7q_uq2QxoXl/view?usp=sharing
