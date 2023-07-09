@@ -16,7 +16,6 @@ New Employee Training System (NETS) is designed to provide knowledge about the w
 9. To generate user reports and overview reports of hired employees and ratings and review reports of the content creator
 10. To give the badges to the employees who achieve the goal and show how many points they need to beat the first employee by the leader board
 # Proposed Solution
-* Below are the main and sub-modules we created from the proposed solution
 * Department &Job title module 
 * Profile overview
 * Chapter module 
